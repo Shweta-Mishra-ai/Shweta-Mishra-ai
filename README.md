@@ -26,10 +26,8 @@ I am the **Founder of TechNova World** and a passionate **AI Engineer** speciali
 *   **Key Feature**: "What-If" Retention Simulator & Global Department Filtering.
 *   **Metric**: Reduced inference latency by 90% via model serialization.
 
-<p align="center">
-  <img src="assets/hr_dashboard.png" width="48%" />
-  <img src="assets/hr_risk.png" width="48%" />
-</p>
+![HR Dashboard](assets/hr_dashboard.png)
+*(Above: The Retention Command Center with realtime risk gauge)*
 
 ---
 
@@ -38,21 +36,18 @@ I am the **Founder of TechNova World** and a passionate **AI Engineer** speciali
 *   **Key Feature**: Live Transaction Stream & Global Threat Heatmap.
 *   **Tech**: NetworkX for graph centrality analysis + Streamlit for real-time alerts.
 
-<p align="center">
-  <img src="assets/fraud_dashboard.png" width="48%" />
-  <img src="assets/fraud_graph.png" width="48%" />
-</p>
+![Fraud Analysis](assets/fraud_dashboard.png)
+*(Above: Live Fraud Detection Dashboard)*
 
 ---
 
-### 3. [Excel Auto-Analyst](https://github.com/Shwetam77777/excel-auto-analyst) �
+### 3. [Excel Auto-Analyst](https://github.com/Shwetam77777/excel-auto-analyst) 📊
 **Instant BI Tool**: Drop any Excel/CSV file and get an instant, interactive dashboard.
 *   **Key Feature**: Automatic KPI detection and Distribution Analysis.
 *   **Tech**: Pandas, Plotly, Streamlit.
 
-<p align="center">
-  <img src="assets/excel_dashboard.png" width="100%" />
-</p>
+![Excel Dashboard](assets/excel_dashboard.png)
+*(Above: Instant Insights generated from raw data)*
 
 ---
 
@@ -66,10 +61,7 @@ I am the **Founder of TechNova World** and a passionate **AI Engineer** speciali
 
 I believe in **"Always Be Shipping"**. My GitHub activity reflects a commitment to daily code improvements and open-source contribution.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shwetam77777&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shwetam77777&theme=radical&hide_border=true" width="48%" />
-</p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Shwetam77777&show_icons=true&theme=radical&count_private=true&hide_border=true)
 
 *(Notes: Stats include contributions to private repositories and commercial projects).*
 
