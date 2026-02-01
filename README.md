@@ -61,7 +61,7 @@ I am the **Founder of TechNova World** and a passionate **AI Engineer** speciali
 
 I believe in **"Always Be Shipping"**. My GitHub activity reflects a commitment to daily code improvements and open-source contribution.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Shwetam77777&show_icons=true&theme=radical&count_private=true&hide_border=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Shwetam77777&show_icons=true&theme=radical&hide_border=true)
 
 *(Notes: Stats include contributions to private repositories and commercial projects).*
 
