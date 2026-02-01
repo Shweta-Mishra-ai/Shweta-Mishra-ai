@@ -1,10 +1,10 @@
 # Hello, I'm Shweta. 👋
 
-### Founder @ TechNova World | Sr. AI Architect | Full Stack Data Scientist
+### Founder @ TechNova World | AI Full Stack Engineer | Data Scientist
 
 > *"I bridge the gap between AI Research and Production Engineering."*
 
-I am the **Founder of TechNova World**, a future-forward AI initiative, and a **Senior AI Engineer** specializing in building intelligent, scalable systems. My passion lies in creating tools that solve real business problems—from fraud detection to workforce retention.
+I am the **Founder of TechNova World** and a passionate **AI Engineer** specializing in building intelligent, scalable systems. My focus is on moving AI out of notebooks and into real-time applications.
 
 > 🎯 **Open For**: Full-Time AI Engineering Roles & Strategic Consulting.
 > 🚀 **Building**: TechNova World (Future AI Startup).
