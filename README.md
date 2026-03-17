@@ -51,12 +51,18 @@ I am the **Founder of TechNova World** and a passionate **AI Engineer** speciali
 
 ---
 
-### 4. [AI Multi-Agent Orchestrator](https://github.com/Shwetam77777/ai-multi-agent-mvp) 🤖
-**Autonomous Systems**: A robust framework where specialized agents collaborate to solve complex workflows without human intervention.
-*   **Architecture**: Custom Agent Protocol + LLM Integration.
+### 
+---4. 🤖 AI DevOps Assistant (GitHub Autopilot)
+LLM-Powered Repository Automation
+PR analysis and code review
+Issue triaging and workflow automation
+Security and repository health monitoring
 
----
-
+🎓 Certifications
+https://www.coursera.org/account/accomplishments/specialization/G9PERGZMFBGP
+https://www.coursera.org/account/accomplishments/verify/MX2SYA8AFZLG
+https://www.coursera.org/account/accomplishments/verify/580QY6JC7G3Y
+https://www.coursera.org/account/accomplishments/verify/SJKHBBZJ6S6R
 ## 📈 Engineering Velocity
 
 I believe in **"Always Be Shipping"**. My GitHub activity reflects a commitment to daily code improvements and open-source contribution.
@@ -75,6 +81,6 @@ I believe in **"Always Be Shipping"**. My GitHub activity reflects a commitment 
 ---
 
 ### 💼 Work With Me
-Whether you need a **Senior Engineer** to lead a team or a **Consultant** to validate a TechNova idea, I deliver results.
+Whether you need a **Ai Engineer and Data scientist** to lead a team or a **Consultant** to validate a TechNova idea, I deliver results.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shweta-mishra-77777) 
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shweta-mishra-ai) 
