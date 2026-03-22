@@ -3,13 +3,13 @@
 </div>
 
 <br>
-
 <div align="center">
   <img src="assets/female-ai-dev.png" width="65%" style="border-radius:16px; box-shadow: 0 10px 30px rgba(0,255,157,0.15);" alt="Female AI Engineer Working on Code & Dashboards"/>
-  <br><strong>Turning data into intelligent, real-time systems</strong>
+  <br><strong>Building intelligent systems that turn data into real impact</strong>
 </div>
 
 <br>
+
 
 > "I bridge the gap between AI Research and Production Engineering. From notebooks to scalable solutions that deliver impact."
 
