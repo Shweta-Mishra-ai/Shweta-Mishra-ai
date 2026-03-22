@@ -70,8 +70,8 @@ Instant dashboard from CSV/Excel. Key: Auto KPI analysis.
 ### 4. GitHub Autopilot 🤖
 LLM repo automation: PRs, issues, security.
 
-*(Upload screenshot if ready)*
 
+![GitHub Autopilot](assets/ai-repo-manager.jpg)
 ---
 
 ## 📈 Engineering Velocity
