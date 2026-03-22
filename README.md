@@ -1,87 +1,119 @@
-# Hello, I'm Shweta. 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1200&color=00FF9D&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Shweta+Mishra;AI+Engineer+%7C+Data+Scientist+%7C+Python+Developer;Founder+%40+TechNova+World;Building+AI+that+creates+real+impact;Open+to+2026+roles+%26+freelance+projects+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-### Founder @ TechNova World | AI Full Stack Engineer | Data Scientist
+<br>
 
-> *"I bridge the gap between AI Research and Production Engineering."*
+> "I bridge the gap between AI Research and Production Engineering. From notebooks to real-time, scalable systems that deliver business impact."
 
-I am the **Founder of TechNova World** and a passionate **AI Engineer** specializing in building intelligent, scalable systems. My focus is on moving AI out of notebooks and into real-time applications.
+**AI Engineer | Data Scientist | Python Developer**  
+Founder @ **TechNova World**  
+📍 Moradabad / Meerut, Uttar Pradesh | Open to **Remote / India / Worldwide** opportunities  
 
-> 🎯 **Open For**: Full-Time AI Engineering Roles & Strategic Consulting.
-> 🚀 **Building**: TechNova World (Future AI Startup).
+🎯 **Actively seeking 2026 opportunities**  
+- Full-time: AI Engineer | Data Scientist | Data Analyst | Python Developer | MLOps  
+- Freelance / Consulting: ML dashboards | Data pipelines | Streamlit apps | Power BI reports | AI automation | GitHub bots  
+
+Quick projects welcome — let's connect!
 
 ---
 
-## 🏗️ The AI Architecture Stack
+## 🏗️ Tech Stack
 
-| **Core AI** | **MLOps & Data** | **Full Stack UI** |
-| :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-111?logo=xgboost) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,langchain,fastapi,docker,postgres,sql,java,html,css,react,streamlit,tailwind,powerbi,tableau,git,github,vscode,aws,azure,huggingface,vercel,matplotlib,plotly,numpy,pandas&perline=9" alt="Tech Stack Icons"/>
+</div>
+
+| Core AI/ML              | MLOps & Production          | Data & Viz                  | Full-Stack/UI               |
+|-------------------------|-----------------------------|-----------------------------|-----------------------------|
+| Python, PyTorch, TensorFlow, Scikit-learn, XGBoost, LangChain | FastAPI, Docker, PostgreSQL, GitHub Actions | Pandas, NumPy, Plotly, Power BI, Tableau | React, Streamlit, Tailwind CSS |
 
 ---
 
 ## 🚀 Featured Visual Portfolio
 
-### 1. [HR Intelligence System v3.0](https://github.com/Shwetam77777/HR-Analytics) 🏢
-**Prescriptive Analytics Platform**: Uses Random Forest to predict attrition and simulate retention strategies (salary hikes, promotions).
-*   **Key Feature**: "What-If" Retention Simulator & Global Department Filtering.
-*   **Metric**: Reduced inference latency by 90% via model serialization.
+### 1. HR Intelligence System v3.0 🏢
+Prescriptive Analytics Platform: Random Forest attrition prediction + What-If retention simulator.  
+Key Feature: Global department filtering & real-time risk gauge.  
+Metric: 90% inference latency reduction.
 
 ![HR Dashboard](assets/hr_dashboard.png)
-*(Above: The Retention Command Center with realtime risk gauge)*
+*(Retention Command Center with realtime insights)*
 
----
-
-### 2. [Real-Time Fraud Graph AI](https://github.com/Shwetam77777/fraud-analysis) 🛡️
-**Financial Security Engine**: Combines **Isolation Forest** (ML) with **Graph Theory** to detect fraud rings in real-time.
-*   **Key Feature**: Live Transaction Stream & Global Threat Heatmap.
-*   **Tech**: NetworkX for graph centrality analysis + Streamlit for real-time alerts.
+### 2. Real-Time Fraud Graph AI 🛡️
+Financial Security Engine: Isolation Forest + Graph Theory for fraud ring detection.  
+Key Feature: Live transaction stream & global threat heatmap.  
+Tech: NetworkX + Streamlit alerts.
 
 ![Fraud Analysis](assets/fraud_dashboard.png)
-*(Above: Live Fraud Detection Dashboard)*
+*(Live Fraud Detection Dashboard)*
 
----
-
-### 3. [Excel Auto-Analyst](https://github.com/Shwetam77777/excel-auto-analyst) 📊
-**Instant BI Tool**: Drop any Excel/CSV file and get an instant, interactive dashboard.
-*   **Key Feature**: Automatic KPI detection and Distribution Analysis.
-*   **Tech**: Pandas, Plotly, Streamlit.
+### 3. Excel Auto-Analyst 📊
+Instant BI Tool: Drop Excel/CSV → automatic interactive dashboard.  
+Key Feature: KPI detection & distribution analysis.  
+Tech: Pandas, Plotly, Streamlit.
 
 ![Excel Dashboard](assets/excel_dashboard.png)
-*(Above: Instant Insights generated from raw data)*
+*(Instant insights from raw data)*
+
+### 4. GitHub Autopilot 🤖
+LLM-Powered Repo Automation: PR analysis, code review, issue triaging, security monitoring, workflow automation.
+
+*(If you have a screenshot/GIF for this project, upload to assets/ and add: ![GitHub Autopilot Demo](assets/github-autopilot-demo.png))*
 
 ---
 
-### 
----4. 🤖 AI DevOps Assistant (GitHub Autopilot)
-LLM-Powered Repository Automation
-PR analysis and code review
-Issue triaging and workflow automation
-Security and repository health monitoring
-
-🎓 Certifications
-
-https://www.coursera.org/account/accomplishments/specialization/G9PERGZMFBGP
-https://www.coursera.org/account/accomplishments/verify/MX2SYA8AFZLG
-https://www.coursera.org/account/accomplishments/verify/580QY6JC7G3Y
-https://www.coursera.org/account/accomplishments/verify/SJKHBBZJ6S6R
 ## 📈 Engineering Velocity
 
-I believe in **"Always Be Shipping"**. My GitHub activity reflects a commitment to daily code improvements and open-source contribution.
+Always shipping code daily — open-source contributions and daily improvements.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-Mishra-ai&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-Mishra-ai&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Shweta-Mishra-ai?style=social" />
-  <img src="https://img.shields.io/github/stars/Shweta-Mishra-ai?style=social" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shweta-Mishra-ai&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
 
-*(Notes: Stats include contributions to private repositories and commercial projects).*
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=Shweta-Mishra-ai&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak"/>
+
+  <br><br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Shweta-Mishra-ai&theme=radical&no-frame=true&margin-w=15&row=1" alt="Trophies"/>
+
+  <p>
+    <img src="https://img.shields.io/github/stars/Shweta-Mishra-ai?style=social" alt="Stars"/>
+    <img src="https://img.shields.io/github/followers/Shweta-Mishra-ai?style=social" alt="Followers"/>
+  </p>
+</div>
+
+*If you like my projects, please give them a ⭐ — it helps a lot!*
 
 ---
 
-### 💼 Work With Me
-Whether you need a **Ai Engineer and Data scientist** to lead a team or a **Consultant** to validate a TechNova idea, I deliver results.
+## 🎓 Certifications
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shweta-mishra-ai) 
+- Coursera AI/ML Specializations & Verified Certificates  
+  [Specialization](https://www.coursera.org/account/accomplishments/specialization/G9PERGZMFBGP)  
+  [Certificate 1](https://www.coursera.org/account/accomplishments/verify/MX2SYA8AFZLG)  
+  [Certificate 2](https://www.coursera.org/account/accomplishments/verify/580QY6JC7G3Y)  
+  [Certificate 3](https://www.coursera.org/account/accomplishments/verify/SJKHBBZJ6S6R)
+
+---
+
+## 💼 Work With Me
+
+Whether you need an AI Engineer / Data Scientist for projects, consulting, or full-time roles — I deliver results.
+
+<div align="center">
+  <a href="https://linkedin.com/in/shweta-mishra-ai">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shweta-Mishra-ai&label=Profile+Views&color=brightgreen&style=flat-square" alt="Profile views"/>
+</div>
+
+Thank you for visiting! ⭐ Open to collaborations, feedback, and opportunities.
