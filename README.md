@@ -145,3 +145,6 @@ LLM-powered repo automation system
 <p align="center">
   ⭐ If you find my work valuable, consider starring my repositories.
 </p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shweta-Mishra-ai/Shweta-Mishra-ai/output/github-contribution-grid-snake.svg" />
+</div>
