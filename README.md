@@ -100,13 +100,23 @@ LLM-powered repo automation system
 ## 📈 Engineering Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shweta-Mishra-ai&show_icons=true&theme=dracula&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-Mishra-ai&layout=compact&theme=dracula&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shweta-Mishra-ai&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-Mishra-ai&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
   <br><br>
 
-  <img src="https://streak-stats.demolab.com?user=Shweta-Mishra-ai&theme=dracula&hide_border=true&border_radius=10" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=Shweta-Mishra-ai&theme=tokyonight&hide_border=true&border_radius=10" width="60%"/>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shweta-Mishra-ai/Shweta-Mishra-ai/output/github-contribution-grid-snake.svg" />
+</div>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shweta-Mishra-ai&theme=tokyo-night&hide_border=true" width="100%"/>
 
 ---
 
@@ -136,9 +146,12 @@ LLM-powered repo automation system
 
 <br>
 
-<
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shweta-Mishra-ai&label=Profile+Views&color=00FF9D&style=flat-square"/>
+</div>
+
+---
 
 <p align="center">
   ⭐ If you find my work valuable, consider starring my repositories.
 </p>
-
