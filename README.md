@@ -135,7 +135,13 @@ LLM-powered repo automation system
 </div>
 
 ---
+## 🏆 Certifications
 
+<p>
+  <a href="https://www.credly.com/users/shweta-mishra.e8db4bbd">
+    <img src="https://img.shields.io/badge/Credly-View%20Badges-orange?style=for-the-badge&logo=credly" />
+  </a>
+</p>
 ## 💼 Work With Me
 
 <div align="center">
