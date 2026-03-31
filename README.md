@@ -87,11 +87,15 @@ Clarity over complexity
 <img src="https://raw.githubusercontent.com/Shweta-Mishra-ai/Shweta-Mishra-ai/output/github-contribution-grid-snake.svg" />
 </div><br><img src="https://github-readme-activity-graph.vercel.app/graph?username=Shweta-Mishra-ai&bg_color=0d1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true" width="100%"/><br>🎓 Certifications
 
-<div align="center">
-<a href="https://www.credly.com/users/shweta-mishra.e8db4bbd">
-<img src="https://img.shields.io/badge/View%20Certifications-Credly-orange?style=for-the-badge&logo=credly"/>
-</a>
-</div><br>💼 Work With Me
+<div align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/G9PERGZMFBGP">
+<img src="https://img.shields.io/badge/AI%20Specialization-0056D2?style=for-the-badge&logo=coursera"/>
+</a><a href="https://www.coursera.org/account/accomplishments/verify/MX2SYA8AFZLG">
+<img src="https://img.shields.io/badge/Machine%20Learning-0056D2?style=for-the-badge&logo=coursera"/>
+</a><a href="https://www.coursera.org/account/accomplishments/verify/580QY6JC7G3Y">
+<img src="https://img.shields.io/badge/Data%20Science-0056D2?style=for-the-badge&logo=coursera"/>
+</a><a href="https://www.credly.com/users/shweta-mishra.e8db4bbd">
+<img src="https://img.shields.io/badge/Credly-View%20Badges-orange?style=for-the-badge&logo=credly"/>
+</a></div><br>💼 Work With Me
 
 I help teams build real-world AI systems:
 
