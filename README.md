@@ -1,115 +1,135 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1200&color=00FF9D&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Shweta+Mishra;AI+Engineer+%7C+Data+Scientist+%7C+Python+Developer;Founder+%40+TechNova+World;Production+AI+Systems+%7C+Data+Intelligence+%7C+MLOps;Open+to+2026+Roles+%26+Freelance" /><br><br>
-
-<img src="assets/female-ai-dev.png" width="420" /><br><strong>⚡ Production AI Systems • Data Intelligence • MLOps Engineering</strong>
-
-<br><em>Turning Data → Intelligence → Scalable Systems</em>
-
-<br><br>
-
-Designing AI systems that move from experimentation → production → real-world impact
-
-</div><br>👩‍💻 About Me
-
-AI Engineer | Data Scientist | Python Developer
-Founder @ TechNova World
-
-🌍 Open to Remote / Global opportunities (2026)
-💼 Available for AI & Data freelance projects
-
-- End-to-end AI pipelines (data → model → deployment)
-- Data intelligence systems for decision-making
-- Scalable ML + API-based architectures
-
-<br>🏆 Developer Stats
-
-<div align="center"><img src="https://img.shields.io/github/followers/Shweta-Mishra-ai?style=for-the-badge&color=00FF9D&label=Followers"/>
-<img src="https://img.shields.io/github/stars/Shweta-Mishra-ai?style=for-the-badge&color=00FF9D&label=Total%20Stars"/>
-<img src="https://img.shields.io/github/commit-activity/m/Shweta-Mishra-ai/Shweta-Mishra-ai?style=for-the-badge&color=00FF9D&label=Commits"/></div><br>🛠️ Tech Stack
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,langchain,fastapi,docker,postgres,sql,react,streamlit,tailwind,git,github,aws,azure,matplotlib,plotly,numpy,pandas&perline=8"/>
-</div><br><div align="center">
-<table>
-<tr>
-<th>Core AI/ML</th>
-<th>MLOps & Production</th>
-<th>Data & Visualization</th>
-<th>Application Layer</th>
-</tr>
-<tr>
-<td>Python, PyTorch, TensorFlow, Scikit-learn, XGBoost, LangChain</td>
-<td>FastAPI, Docker, PostgreSQL, CI/CD, GitHub Actions</td>
-<td>Pandas, NumPy, Plotly, Power BI, Tableau</td>
-<td>Streamlit, React, Tailwind CSS</td>
-</tr>
-</table>
-</div><br>🚀 Featured Work
 
-🧠 HR Intelligence System v3.0
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1100&color=7C3AED&center=true&vCenter=true&width=900&lines=Shweta+Mishra+%E2%80%94+AI%2FML+Engineer;Building+production-ready+AI+systems;AI+Engineering+%C2%B7+Data+Science+%C2%B7+Automation" alt="Animated introduction" />
 
-- Predictive attrition modeling + simulation
-- End-to-end pipeline (data → ML → dashboard)
-- Workforce risk decision intelligence
-
-<img src="assets/hr_dashboard.png" width="100%" /><br>🛡️ Real-Time Fraud Graph AI
-
-- Graph-based anomaly detection
-- Real-time fraud monitoring
-- Scalable high-frequency architecture
-
-<img src="assets/fraud_dashboard.png" width="100%" /><br>📊 Excel Auto-Analyst
-
-- Automated KPI detection
-- Instant dashboard generation
-- Data → insight automation
-
-<img src="assets/excel_dashboard.png" width="100%" /><br>🤖 GitHub Autopilot
-
-- LLM-powered repo automation
-- PR analysis • issue triage • insights
-- Developer workflow optimization
-
-<img src="assets/ai-repo-manager.jpg" width="100%" /><br>🧩 Engineering Mindset
-
-Systems over scripts  
-Deployment over notebooks  
-Impact over experimentation  
-Clarity over complexity  
-
-<br>📈 Engineering Activity
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Shweta-Mishra-ai&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-Mishra-ai&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%"/><br><br>
-
-<img src="https://streak-stats.demolab.com?user=Shweta-Mishra-ai&theme=tokyonight&hide_border=true" width="60%"/></div><br><div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shweta-Mishra-ai&theme=tokyonight" width="100%"/>
-</div><br><div align="center">
-<img src="https://raw.githubusercontent.com/Shweta-Mishra-ai/Shweta-Mishra-ai/output/github-contribution-grid-snake.svg" />
-</div><br><img src="https://github-readme-activity-graph.vercel.app/graph?username=Shweta-Mishra-ai&bg_color=0d1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true" width="100%"/><br>🎓 Certifications
-
-<div align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/G9PERGZMFBGP">
-<img src="https://img.shields.io/badge/AI%20Specialization-0056D2?style=for-the-badge&logo=coursera"/>
-</a><a href="https://www.coursera.org/account/accomplishments/verify/MX2SYA8AFZLG">
-<img src="https://img.shields.io/badge/Machine%20Learning-0056D2?style=for-the-badge&logo=coursera"/>
-</a><a href="https://www.coursera.org/account/accomplishments/verify/580QY6JC7G3Y">
-<img src="https://img.shields.io/badge/Data%20Science-0056D2?style=for-the-badge&logo=coursera"/>
-</a><a href="https://www.credly.com/users/shweta-mishra.e8db4bbd">
-<img src="https://img.shields.io/badge/Credly-View%20Badges-orange?style=for-the-badge&logo=credly"/>
-</a></div><br>💼 Work With Me
-
-I help teams build real-world AI systems:
-
-- AI/ML models (prediction, NLP, LLMs)
-- Data dashboards & analytics systems
-- Automation tools & pipelines
-- Streamlit / FastAPI AI applications
-
-<div align="center">
-<a href="https://linkedin.com/in/shweta-mishra-ai">
-<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-</div><br><div align="center">
-<img src="https://komarev.com/ghpvc/?username=Shweta-Mishra-ai&label=Profile+Views&color=00FF9D&style=flat-square"/>
-</div><br><p align="center">
-⭐ If my work adds value, consider starring my repositories
+<p>
+  <a href="https://www.linkedin.com/in/shweta-mishra-ai"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Shweta-Mishra-ai?tab=repositories"><img src="https://img.shields.io/badge/Open_Source-Explore-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+  <a href="https://github.com/sponsors/Shweta-Mishra-ai"><img src="https://img.shields.io/badge/GitHub_Sponsors-Support-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
 </p>
+
+<img src="assets/female-ai-dev.png" width="300" alt="Female AI developer illustration" />
+
+<p><strong>I design AI and data products that turn complex workflows into reliable, useful systems.</strong></p>
+<p>LLM applications · AI automation · data intelligence · production APIs</p>
+
+</div>
+
+## About
+
+I am an AI/ML Engineer and the founder of **TechNova World**. I build end-to-end AI systems—from data and model design to APIs, deployment, and business workflows.
+
+My work sits at the intersection of **LLM context engineering, agentic automation, machine learning, and practical product delivery**. I care about systems that are measurable, maintainable, and valuable beyond a demo.
+
+```text
+Systems over scripts  ·  Deployment over notebooks  ·  Impact over experimentation
+```
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shweta-Mishra-ai&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/Shweta-Mishra-ai?tab=repositories"><img src="https://img.shields.io/github/stars/Shweta-Mishra-ai?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=TOTAL%20STARS&color=7c3aed" alt="GitHub stars" /></a>
+  <img src="https://img.shields.io/github/followers/Shweta-Mishra-ai?style=flat-square&label=FOLLOWERS&color=7c3aed" alt="GitHub followers" />
+</div>
+
+<div align="center">
+  <sub>Explore the systems below — if one is useful, consider giving the repository a star.</sub>
+</div>
+
+## What I build
+
+```mermaid
+flowchart LR
+    A[Business workflow] --> B[Data & context layer]
+    B --> C[AI / ML intelligence]
+    C --> D[FastAPI services & automations]
+    D --> E[Secure, observable product]
+    E --> F[Measurable team impact]
+
+    style A fill:#ede9fe,stroke:#7c3aed,color:#1f2937
+    style C fill:#ddd6fe,stroke:#7c3aed,color:#1f2937
+    style E fill:#c4b5fd,stroke:#7c3aed,color:#1f2937
+    style F fill:#7c3aed,stroke:#7c3aed,color:#ffffff
+```
+
+| Area | Focus |
+| --- | --- |
+| **LLM systems** | RAG, MCP, semantic caching, context management, multi-provider reliability |
+| **Business automation** | n8n workflows, API integrations, approval flows, alerts, document and data operations |
+| **Data science & ML** | EDA, feature engineering, predictive modelling, anomaly detection, decision intelligence |
+| **Production engineering** | FastAPI, Docker, PostgreSQL, CI/CD, API architecture, reliable deployment |
+
+## Selected work
+
+### [TokenMizer](https://github.com/Shweta-Mishra-ai/tokenmizer) — Context infrastructure for AI agents
+
+Graph-based session memory for preserving decisions, context, and history across LLM conversations. Built for efficient context use, with FastAPI and MCP-oriented developer workflows.
+
+**Focus:** context engineering · semantic memory · FastAPI · MCP · LLM reliability
+
+### [GitHub Autopilot](https://github.com/Shweta-Mishra-ai/github-autopilot) — AI-powered repository operations
+
+A GitHub App for PR analysis, code review, issue triage, repository health monitoring, and automated developer workflows using a resilient multi-provider LLM strategy.
+
+**Focus:** AI agents · developer tooling · GitHub automation · code intelligence
+
+### [Real-Time Fraud Pathway](https://github.com/Shweta-Mishra-ai/realtime-fraud-pathway) — Streaming risk intelligence
+
+Real-time fraud detection using live transaction streams, risk scoring, and LLM-assisted explanations grounded in AML and compliance knowledge.
+
+**Focus:** streaming ML · anomaly detection · RAG · risk systems
+
+### [Excel Auto-Analyst](https://github.com/Shweta-Mishra-ai/excel-auto-analyst) — Data-to-insight automation
+
+An AI-assisted analytics tool that cleans Excel data, identifies KPIs, and turns raw files into interactive, decision-ready insights.
+
+**Focus:** data intelligence · analytics automation · business intelligence · AI UX
+
+> More open-source projects: [github.com/Shweta-Mishra-ai](https://github.com/Shweta-Mishra-ai?tab=repositories)
+
+## Capabilities — AI engineering, data science & automation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,postgres,githubactions,git,aws,azure,react,tailwind&perline=13" alt="Technology stack" />
+</p>
+
+- **Data science:** exploratory data analysis, data cleaning, SQL analysis, feature engineering, model evaluation, statistical insight, dashboarding
+- **Machine learning:** classification, regression, forecasting, anomaly detection, model explainability, PyTorch, TensorFlow, scikit-learn, XGBoost
+- **AI systems:** LLM applications, RAG, context engineering, semantic memory, MCP, AI agents, evaluation and guardrails
+- **Automation & integration:** n8n, webhooks, REST APIs, third-party integrations, scheduled workflows, notifications, human-in-the-loop approvals
+- **Product & platform:** Python, FastAPI, Docker, PostgreSQL, GitHub Actions, React, Tailwind CSS, AWS and Azure
+
+## Certifications & research
+
+<p>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/G9PERGZMFBGP"><img src="https://img.shields.io/badge/AI_Specialization-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="AI Specialization certificate" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/MX2SYA8AFZLG"><img src="https://img.shields.io/badge/Machine_Learning-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Machine Learning certificate" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/580QY6JC7G3Y"><img src="https://img.shields.io/badge/Data_Science-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Data Science certificate" /></a>
+  <a href="https://www.credly.com/users/shweta-mishra.e8db4bbd"><img src="https://img.shields.io/badge/Credly-View_badges-F59E0B?style=flat-square&logo=credly&logoColor=white" alt="Credly badges" /></a>
+</p>
+
+I also explore the engineering limits of LLM context windows and how systems can retain useful context without carrying unnecessary token cost.
+
+## AI automation & MVP delivery
+
+I collaborate with founders and teams building practical AI products, including:
+
+- LLM-powered internal tools and workflow automation
+- Business process automations with **n8n**, APIs, webhooks, and connected tools
+- FastAPI backends, AI integrations, and production-ready MVPs
+- Retrieval and knowledge systems for documents, support, and operations
+- Data intelligence dashboards and decision-support systems
+- GitHub automation, code-review workflows, and developer productivity tools
+
+If you are building an AI product and need an engineer who can connect the model, the system, and the user experience, let’s talk.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shweta-mishra-ai"><img src="https://img.shields.io/badge/Discuss_a_project-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discuss a project on LinkedIn" /></a>
+</div>
+
+## Open source, built for use
+
+I build in public and keep my work accessible for developers and teams who want practical AI systems—not just demos. Explore the repositories, use what helps, and star the projects you value.
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Shweta-Mishra-ai&hide_border=true&theme=transparent" height="155" alt="Contribution streak" />
+</div>
