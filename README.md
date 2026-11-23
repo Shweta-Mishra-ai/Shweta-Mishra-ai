@@ -22,9 +22,7 @@ I am an AI/ML Engineer and the founder of **TechNova World**. I build end-to-end
 
 My work sits at the intersection of **LLM context engineering, agentic automation, machine learning, and practical product delivery**. I care about systems that are measurable, maintainable, and valuable beyond a demo.
 
-```text
-Systems over scripts  ·  Deployment over notebooks  ·  Impact over experimentation
-```
+<p align="center"><em>Systems over scripts · Deployment over notebooks · Impact over experimentation</em></p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Shweta-Mishra-ai&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="Profile views" />
@@ -38,19 +36,7 @@ Systems over scripts  ·  Deployment over notebooks  ·  Impact over experimenta
 
 ## What I build
 
-```mermaid
-flowchart LR
-    A[Business workflow] --> B[Data & context layer]
-    B --> C[AI / ML intelligence]
-    C --> D[FastAPI services & automations]
-    D --> E[Secure, observable product]
-    E --> F[Measurable team impact]
-
-    style A fill:#ede9fe,stroke:#7c3aed,color:#1f2937
-    style C fill:#ddd6fe,stroke:#7c3aed,color:#1f2937
-    style E fill:#c4b5fd,stroke:#7c3aed,color:#1f2937
-    style F fill:#7c3aed,stroke:#7c3aed,color:#ffffff
-```
+<p align="center"><strong>Business workflow → Data & context → AI / ML → APIs & automations → Measurable impact</strong></p>
 
 | Area | Focus |
 | --- | --- |
