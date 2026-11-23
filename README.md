@@ -60,6 +60,10 @@ flowchart LR
 | **Data science & ML** | EDA, feature engineering, predictive modelling, anomaly detection, decision intelligence |
 | **Production engineering** | FastAPI, Docker, PostgreSQL, CI/CD, API architecture, reliable deployment |
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,postgres,githubactions,git,aws,azure,react,tailwind&perline=13" alt="Technology stack" />
+</p>
+
 ## Selected work
 
 ### [TokenMizer](https://github.com/Shweta-Mishra-ai/tokenmizer) — Context infrastructure for AI agents
@@ -74,7 +78,7 @@ A GitHub App for PR analysis, code review, issue triage, repository health monit
 
 **Focus:** AI agents · developer tooling · GitHub automation · code intelligence
 
-### [HireLens](https://github.com/Shweta-Mishra-ai/hirelens) — Recruiter decision intelligence · [Live demo](https://hirelens-theta.vercel.app)
+### [HireLens](https://hirelens-theta.vercel.app) — Recruiter decision intelligence · [Live demo](https://hirelens-theta.vercel.app) · private repository
 
 Resume credibility analysis that shows its working: every score cites the sentence that produced it, and claims are checked against public record. Nothing is decided for the recruiter.
 
@@ -94,18 +98,6 @@ Real-time fraud detection using live transaction streams, risk scoring, and LLM-
 
 > More open-source projects: [github.com/Shweta-Mishra-ai](https://github.com/Shweta-Mishra-ai?tab=repositories)
 
-## Capabilities — AI engineering, data science & automation
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,postgres,githubactions,git,aws,azure,react,tailwind&perline=13" alt="Technology stack" />
-</p>
-
-- **Data science:** exploratory data analysis, data cleaning, SQL analysis, feature engineering, model evaluation, statistical insight, dashboarding
-- **Machine learning:** classification, regression, forecasting, anomaly detection, model explainability, PyTorch, TensorFlow, scikit-learn, XGBoost
-- **AI systems:** LLM applications, RAG, context engineering, semantic memory, MCP, AI agents, evaluation and guardrails
-- **Automation & integration:** n8n, webhooks, REST APIs, third-party integrations, scheduled workflows, notifications, human-in-the-loop approvals
-- **Product & platform:** Python, FastAPI, Docker, PostgreSQL, GitHub Actions, React, Tailwind CSS, AWS and Azure
-
 ## Certifications & research
 
 <p>
@@ -115,7 +107,10 @@ Real-time fraud detection using live transaction streams, risk scoring, and LLM-
   <a href="https://www.credly.com/users/shweta-mishra.e8db4bbd"><img src="https://img.shields.io/badge/Credly-View_badges-F59E0B?style=flat-square&logo=credly&logoColor=white" alt="Credly badges" /></a>
 </p>
 
-I also explore the engineering limits of LLM context windows and how systems can retain useful context without carrying unnecessary token cost.
+I also explore the engineering limits of LLM context windows and how systems can retain useful context without carrying unnecessary token cost:
+
+- [CORTEX](https://github.com/Shweta-Mishra-ai/cortex): pre-execution repository filtering that keeps low-value files out of an LLM's context window
+- [TokenMizer Research](https://github.com/Shweta-Mishra-ai/tokenmizer-research): experiments and evaluation behind TokenMizer's graph-structured session memory
 
 ## Work with me
 
