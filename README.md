@@ -36,7 +36,19 @@ My work sits at the intersection of **LLM context engineering, agentic automatio
 
 ## What I build
 
-<p align="center"><strong>Business workflow → Data & context → AI / ML → APIs & automations → Measurable impact</strong></p>
+```mermaid
+flowchart LR
+    A[Business workflow] --> B[Data & context layer]
+    B --> C[AI / ML intelligence]
+    C --> D[FastAPI services & automations]
+    D --> E[Secure, observable product]
+    E --> F[Measurable team impact]
+
+    style A fill:#ede9fe,stroke:#7c3aed,color:#1f2937
+    style C fill:#ddd6fe,stroke:#7c3aed,color:#1f2937
+    style E fill:#c4b5fd,stroke:#7c3aed,color:#1f2937
+    style F fill:#7c3aed,stroke:#7c3aed,color:#ffffff
+```
 
 | Area | Focus |
 | --- | --- |
