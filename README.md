@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1100&color=7C3AED&center=true&vCenter=true&width=900&lines=Shweta+Mishra+%E2%80%94+AI%2FML+Engineer;Building+production-ready+AI+systems;AI+Engineering+%C2%B7+Data+Science+%C2%B7+Automation" alt="Animated introduction" />
+<h1>Shweta Mishra</h1>
+<h3>AI/ML Engineer · Building production-ready AI systems</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/shweta-mishra-ai"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -72,11 +73,29 @@ A GitHub App for PR analysis, code review, issue triage, repository health monit
 
 **Focus:** AI agents · developer tooling · GitHub automation · code intelligence
 
-### [Real-Time Fraud Pathway](https://github.com/Shweta-Mishra-ai/realtime-fraud-pathway) — Streaming risk intelligence
+### [HireLens](https://github.com/Shweta-Mishra-ai/hirelens) — Recruiter decision intelligence · [Live demo](https://hirelens-theta.vercel.app)
+
+Resume credibility analysis that shows its working: every score cites the sentence that produced it, and claims are checked against public record. Nothing is decided for the recruiter.
+
+**Focus:** LLM evaluation · evidence-grounded scoring · HR tech
+
+### [Analytiq](https://github.com/Shweta-Mishra-ai/Analytiq) — AI data analytics platform · [Live demo](https://analytiq-ucw9.onrender.com)
+
+A business intelligence platform pairing a FastAPI backend with a React dashboard, for turning uploaded data into analysis, charts, and AI-generated insight.
+
+**Focus:** business intelligence · FastAPI · React · RAG
+
+### [FraudShield](https://github.com/Shweta-Mishra-ai/fraudshield) — Streaming risk intelligence · [Live demo](https://fraudshield-blue-seven.vercel.app)
 
 Real-time fraud detection using live transaction streams, risk scoring, and LLM-assisted explanations grounded in AML and compliance knowledge.
 
 **Focus:** streaming ML · anomaly detection · RAG · risk systems
+
+### [CareerForge AI](https://github.com/Shweta-Mishra-ai/CareerForge_AI) — LinkedIn-to-CV generator · [Live demo](https://linkedin-cv-generator-d4v5vnoshm4rzvnchamfqj.streamlit.app/)
+
+An open-source web app that converts structured LinkedIn profile data into professional CVs, with AI output verified against the candidate's own text.
+
+**Focus:** document generation · LLM guardrails · Streamlit
 
 ### [Excel Auto-Analyst](https://github.com/Shweta-Mishra-ai/excel-auto-analyst) — Data-to-insight automation
 
@@ -109,9 +128,9 @@ An AI-assisted analytics tool that cleans Excel data, identifies KPIs, and turns
 
 I also explore the engineering limits of LLM context windows and how systems can retain useful context without carrying unnecessary token cost.
 
-## AI automation & MVP delivery
+## Work with me
 
-I collaborate with founders and teams building practical AI products, including:
+I build in public and collaborate with founders and teams building practical AI products, including:
 
 - LLM-powered internal tools and workflow automation
 - Business process automations with **n8n**, APIs, webhooks, and connected tools
@@ -125,10 +144,6 @@ If you are building an AI product and need an engineer who can connect the model
 <div align="center">
   <a href="https://www.linkedin.com/in/shweta-mishra-ai"><img src="https://img.shields.io/badge/Discuss_a_project-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discuss a project on LinkedIn" /></a>
 </div>
-
-## Open source, built for use
-
-I build in public and keep my work accessible for developers and teams who want practical AI systems—not just demos. Explore the repositories, use what helps, and star the projects you value.
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Shweta-Mishra-ai&hide_border=true&theme=transparent" height="155" alt="Contribution streak" />
