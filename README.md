@@ -91,18 +91,6 @@ Real-time fraud detection using live transaction streams, risk scoring, and LLM-
 
 **Focus:** streaming ML · anomaly detection · RAG · risk systems
 
-### [CareerForge AI](https://github.com/Shweta-Mishra-ai/CareerForge_AI) — LinkedIn-to-CV generator · [Live demo](https://linkedin-cv-generator-d4v5vnoshm4rzvnchamfqj.streamlit.app/)
-
-An open-source web app that converts structured LinkedIn profile data into professional CVs, with AI output verified against the candidate's own text.
-
-**Focus:** document generation · LLM guardrails · Streamlit
-
-### [Excel Auto-Analyst](https://github.com/Shweta-Mishra-ai/excel-auto-analyst) — Data-to-insight automation
-
-An AI-assisted analytics tool that cleans Excel data, identifies KPIs, and turns raw files into interactive, decision-ready insights.
-
-**Focus:** data intelligence · analytics automation · business intelligence · AI UX
-
 > More open-source projects: [github.com/Shweta-Mishra-ai](https://github.com/Shweta-Mishra-ai?tab=repositories)
 
 ## Capabilities — AI engineering, data science & automation
