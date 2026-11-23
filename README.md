@@ -38,16 +38,19 @@ My work sits at the intersection of **LLM context engineering, agentic automatio
 
 ```mermaid
 flowchart LR
-    A[Business workflow] --> B[Data & context layer]
-    B --> C[AI / ML intelligence]
-    C --> D[FastAPI services & automations]
-    D --> E[Secure, observable product]
-    E --> F[Measurable team impact]
+    A([Business<br/>workflow]) --> B[Data &<br/>context]
+    B --> C{{AI / ML<br/>intelligence}}
+    C --> D[APIs &<br/>automations]
+    D --> E[Secure,<br/>observable product]
+    E --> F([Measurable<br/>impact])
+    F -. feedback .-> A
 
-    style A fill:#ede9fe,stroke:#7c3aed,color:#1f2937
-    style C fill:#ddd6fe,stroke:#7c3aed,color:#1f2937
-    style E fill:#c4b5fd,stroke:#7c3aed,color:#1f2937
-    style F fill:#7c3aed,stroke:#7c3aed,color:#ffffff
+    classDef soft fill:#f5f3ff,stroke:#7c3aed,stroke-width:1.5px,color:#1f2937
+    classDef core fill:#ddd6fe,stroke:#6d28d9,stroke-width:2px,color:#1f2937
+    classDef goal fill:#7c3aed,stroke:#5b21b6,stroke-width:2px,color:#ffffff
+    class A,B,D soft
+    class C,E core
+    class F goal
 ```
 
 | Area | Focus |
